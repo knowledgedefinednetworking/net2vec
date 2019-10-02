@@ -145,7 +145,7 @@ class UPCDataset:
         logging.info('Started %s...',tarpath)
         tarname = os.path.split(tarpath)[1]
         routing_name = tarname.replace('.tar.gz','/Routing.txt')
-        data_name = tarname.replace('.tar.gz','/delayGlobal.txt')
+        data_name = tarname.replace('.tar.gz','/simulationResults.txt')
         tfrecords_name = os.path.join(self.output_dir,tarname.replace('tar.gz','tfrecords'))
         
         with tarfile.open(tarpath) as tar:
