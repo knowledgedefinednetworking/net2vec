@@ -10,23 +10,15 @@ Krzysztof Rusek, José Suárez-Varela, Paul Almasan, Pere Barlet-Ros, Albert Cab
 **If you decide to apply the concepts presented or base on the provided code, please do refer our paper.**
 
 ```
-@inproceedings{Rusek:2019:UPG:3314148.3314357,
- author = {Rusek, Krzysztof and Su\'{a}rez-Varela, Jos{\'e} and Mestres, Albert and Barlet-Ros, Pere and Cabellos-Aparicio, Albert},
- title = {Unveiling the Potential of Graph Neural Networks for Network Modeling and Optimization in SDN},
- booktitle = {Proceedings of the 2019 ACM Symposium on SDN Research},
- series = {SOSR '19},
- year = {2019},
- isbn = {978-1-4503-6710-3},
- location = {San Jose, CA, USA},
- pages = {140--151},
- numpages = {12},
- url = {http://doi.acm.org/10.1145/3314148.3314357},
- doi = {10.1145/3314148.3314357},
- acmid = {3314357},
- publisher = {ACM},
- address = {New York, NY, USA},
- keywords = {Graph Neural Networks, SDN, network modeling, network optimization},
-} 
+@ARTICLE{9109574,
+  author={K. {Rusek} and J. {Suárez-Varela} and P. {Almasan} and P. {Barlet-Ros} and A. {Cabellos-Aparicio}},
+  journal={IEEE Journal on Selected Areas in Communications}, 
+  title={RouteNet: Leveraging Graph Neural Networks for Network Modeling and Optimization in SDN}, 
+  year={2020},
+  volume={38},
+  number={10},
+  pages={2260-2270},
+  doi={10.1109/JSAC.2020.3000405}}
 
 ```
 
